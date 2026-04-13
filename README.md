@@ -6,17 +6,17 @@ This project is the culmination of my what I have learned throughout the journey
 https://www.youtube.com/watch?v=UfazH3vIsyE
 
 ## Milestone 2
-[Milestone 2 Files](/Capstone_MilestoneTwo_CS499_Blake_Hardrick)
+[Milestone 2 Files](/Milestone2)
 
 This enhancement focuses on improving the software design and re-engineering the code base.
 
 ## Milestone 3
-[Milestone 3 Files](/CS499_Milestone3_Capstone_BlakeHardrick)
+[Milestone 3 Files](/Milestone3)
 
 This enhancement adds an algorithm to generate a voxel data structure for 3D rendering.
 
 ## Milestone 4
-[Milestone 4 Files](/CS499_Milestone4_BlakeHardrick)
+[Milestone 4 Files](/Milestone4)
 
 This enhancement adds a database to store voxel maps in.
 
