@@ -4,6 +4,7 @@ This project is the culmination of my what I have learned throughout the journey
 
 ## Milestone 1
 [Code Review Video](https://www.youtube.com/watch?v=UfazH3vIsyE)
+
 This video shows what plans I was making before I built each enhancement. I reviewed the code I had written for CS 330 and made some critiques as well as plans for improvement.
 
 
