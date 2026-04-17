@@ -2,8 +2,10 @@
 
 This project is the culmination of my what I have learned throughout the journey of pursuing my degree at SNHU. I was required to make a code review of a project I did earlier in the college program. I then had to make 3 enhancements to it in areas of software design, algorithms, and databases. This project consists of 4 milestones, and each milestone has an accompanying narrative file to explain the improvements made, as well as the lessons learned.
 
-## Milestone 1 Code Review Video
-https://www.youtube.com/watch?v=UfazH3vIsyE
+## Milestone 1
+[Code Review Video](https://www.youtube.com/watch?v=UfazH3vIsyE)
+This video shows what plans I was making before I built each enhancement. I reviewed the code I had written for CS 330 and made some critiques as well as plans for improvement.
+
 
 ## Milestone 2
 [Milestone 2 Files](/Milestone2)
