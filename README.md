@@ -2,6 +2,12 @@
 
 This project is the culmination of my what I have learned throughout the journey of pursuing my degree at SNHU. I was required to make a code review of a project I did earlier in the college program. That project was a 3D object rendering program where the user could navigate a 3D space and see rendered 3D objects. I had to make 3 enhancements to it in areas of software design, algorithms, and databases. This project consists of 4 milestones. The first one is a code review video where I plan each enhancement, and the other 3 milestones are the enhancements themselves. Each enhancement has an accompanying narrative file to explain the improvements made, as well as the lessons learned.
 
+## Self-Assessment
+
+Start here when reviewing this code base. This document is my assessment of what I've learned and the skills I have developed throughout the Computer Science program at SNHU.
+
+[Self-Assessment](SelfAssessment.docx)
+
 ## Milestone 1 - Code Review
 [Code Review Video](https://www.youtube.com/watch?v=UfazH3vIsyE)
 
